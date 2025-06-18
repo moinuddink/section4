@@ -1,5 +1,6 @@
 public class Employee {
 
+    public static final String EMPLOYER_NAME="Google";
     String name;
     String address;
     int age;
