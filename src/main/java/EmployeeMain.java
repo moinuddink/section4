@@ -10,5 +10,6 @@ public class EmployeeMain {
         System.out.println("Name: " + employee.getName());
         System.out.println("Address: " + employee.getAddress());
         System.out.println("Age: " + employee.getAge());
+        System.out.println("Employer Name: " + Employee.EMPLOYER_NAME);
     }
 }
